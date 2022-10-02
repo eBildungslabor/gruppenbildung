@@ -1,6 +1,6 @@
 # Gruppenbildung
 
-Dies ist eine einfache Javascript-Funktion: beim Aufruf der Seite wird per Zufall eine Zahl zwischen 1 und 4 angezeigt.
+Dies ist eine einfache Javascript-Funktion: Beim Aufruf der Seite wird per Zufall eine Zahl zwischen 1 und 4 angezeigt.
 
 ## Was kann ich damit machen?
 
