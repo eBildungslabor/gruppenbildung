@@ -1,11 +1,21 @@
-<!DOCTYPE html>
-<html>
-<body>
+
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
+    <title>Gruppenbildung</title>
+  </head>
+  <body>
+    <main class="container">
+
 <h2>Du bist in Gruppe Nr.</h2>
-<h2 id="random_number"></h2>
+<h1 id="random_number"></h1>
 <script>
 var randomNumber = Math.floor(Math.random() * 4) + 1;
 document.getElementById("random_number").innerHTML = randomNumber;
 </script>
-</body>
+    </main>
+      </body>
 </html>
