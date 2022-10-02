@@ -4,7 +4,7 @@ Dies ist eine einfache Javascript-Funktion: Beim Aufruf der Seite wird per Zufal
 
 ## Was kann ich damit machen?
 
-Die Idee ist, diese Funktion zur Gruppenbildung zzu nutzen. Das bedeutet:
+Die Idee ist, diese Funktion zur Gruppenbildung zu nutzen. Das bedeutet:
 
 * Teilnehmende in einem Lernangebot erhalten den [Link zur Website](https://ebildungslabor.github.io/gruppenbildung/) bzw. können einen QR-Code scannen.
 * Sie bekommen angezeigt, ob sie in Gruppe 1,2, 3 oder 4 sind und können dann zu dieser Gruppe gehen. 
