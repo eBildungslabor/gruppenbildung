@@ -12,6 +12,8 @@ Die Idee ist, diese Funktion zur Gruppenbildung zzu nutzen. Das bedeutet:
 
 ## Wo ist der QR-Code dazu?
 
-Hier ist der QR-Code dazu:
+Hier:
+
+![alt text](https://github.com/eBildungslabor/gruppenbildung/blob/main/QR%20Code%20kurzelinks-de-zeic.png?raw=true)
 
 
